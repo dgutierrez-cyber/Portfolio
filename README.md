@@ -1,9 +1,74 @@
-Hello, I'm Daniel Gutierrez and I am an aspiring cybersecurity professional with a diverse background in transportation, customer service, and operations. Over the past seven years, I have honed strong problem-solving abilities, attention to detail, and a dedication to reliability in fast-paced, client-focused environments. Currently transitioning into cybersecurity, I am building hands-on experience in threat detection, incident response, and security automation, leveraging both my analytical mindset and technical training to protect systems and data.
-<div>
+Daniel Gutierrez — Cybersecurity Portfolio
+## About Me
+I'm Daniel Gutierrez, an aspiring Cybersecurity Analyst passionate about network defense, SIEM analysis, and incident response.  
+Currently completing the **Google Cybersecurity Professional Certificate**, I focus on hands-on labs and simulations that mirror real-world SOC operations.
 
-# Objective
+---
 
-With over seven years of experience in customer service, transportation, and operational roles, I bring strong problem-solving skills, attention to detail, and a commitment to reliability. Leveraging my background in managing complex schedules, safety protocols, and client-focused operations, I am now transitioning into cybersecurity, where I can combine my analytical mindset and technical training to protect systems and data. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, contributing to threat detection, incident response, and the continuous improvement of organizational security posture.
-</div>
+## Skills & Tools
 
-# Skills
+| Category | Tools / Skills |
+|-----------|----------------|
+| Threat Detection | SIEM (Splunk, Chronicle, Wazuh), Log Analysis, IDS/IPS |
+| Network Security | VLAN Configuration, Firewalls, Wireshark |
+| SOC Operations | TheHive, Shuffle SOAR, Security Onion |
+| Operating Systems | Linux CLI, Windows Server, Kali Linux |
+| Scripting & Automation | Bash, Python (basic), PowerShell |
+| Security Frameworks | NIST SP 800-30, AAA, MFA, Defense-in-Depth |
+
+---
+
+## Featured Projects
+
+### 🔸 [vLAN Network Segmentation Lab](./01_vLAN_Lab/vlan_lab_report.md)
+**Goal:** Simulate a segmented enterprise network using Hyper-V  
+**Focus Areas:** Network isolation, subnet mapping, firewall policy  
+📸 _Screenshots:_ `screenshots/`  
+🧠 _Skills:_ Windows Server, Ubuntu, Hyper-V, Network Troubleshooting  
+
+---
+
+### 🔸 [SIEM Log Analysis Project](./02_Log_Analysis_SIEM/siem_analysis_report.md)
+**Goal:** Detect brute-force and suspicious SSH login attempts using SIEM data.  
+**Focus Areas:** Log correlation, event filtering, incident reporting  
+📸 _Screenshots:_ `screenshots/`  
+🧠 _Skills:_ Splunk, Regex, CSV log analysis  
+
+---
+
+### 🔸 [Linux Permissions & Security Project](./03_Linux_Permissions/permissions_project.md)
+**Goal:** Strengthen Linux system security by configuring file and directory permissions.  
+**Focus Areas:** chmod, chown, groups, sudoers file  
+📸 _Screenshots:_ `screenshots/`  
+🧠 _Skills:_ Linux Administration, Access Control  
+
+---
+
+### 🔸 [SOC Automation & Case Management Lab](./04_SOC_Automation/soc_automation_lab.md)
+**Goal:** Automate SOC triage and alerts using Shuffle SOAR and TheHive.  
+**Focus Areas:** API integration, playbook logic, automated response  
+📸 _Screenshots:_ `screenshots/`  
+🧠 _Skills:_ SOAR, Case Management, API Automation  
+
+---
+
+## Certifications
+
+- Google Cybersecurity Professional Certificate (In Progress)
+- CompTIA Security+ (Targeting 2025)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgutierrez-digital)  
+ **dang25cyber@gmail.com**
+
+---
+
+## Future Goals
+I'm actively building my portfolio toward a **SOC Tier 1 / Analyst role**.  
+Next planned projects include:
+- SIEM + SOAR full integration
+- Web server vulnerability assessment
+- Incident response tabletop
+- 
