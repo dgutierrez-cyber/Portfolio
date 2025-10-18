@@ -20,7 +20,7 @@ Currently completing the Google Cybersecurity Professional Certificate, I focus 
 
 ## Featured Projects
 
-### 🔸 [vLAN Network Segmentation Lab](./01_vLAN_Lab/vlan_lab_report.md)
+### 🔸 [vLAN Network Segmentation Lab](https://github.com/dgutierrez-cyber/vLAN-Network-Segmentation-Lab)
 **Goal:** Simulate a segmented enterprise network using Hyper-V  
 **Focus Areas:** Network isolation, subnet mapping, firewall policy  
 📸 _Screenshots:_ `screenshots/`  
