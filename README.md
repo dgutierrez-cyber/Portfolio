@@ -1,7 +1,7 @@
 Daniel Gutierrez — Cybersecurity Portfolio
 ## About Me
 I'm Daniel Gutierrez, an aspiring Cybersecurity Analyst passionate about network defense, SIEM analysis, and incident response.  
-Currently completing the **Google Cybersecurity Professional Certificate**, I focus on hands-on labs and simulations that mirror real-world SOC operations.
+Currently completing the Google Cybersecurity Professional Certificate, I focus on hands-on labs and simulations that mirror real-world SOC operations.
 
 ---
 
@@ -55,7 +55,7 @@ Currently completing the **Google Cybersecurity Professional Certificate**, I fo
 ## Certifications
 
 - Google Cybersecurity Professional Certificate (In Progress)
-- CompTIA Security+ (Targeting 2025)
+- CompTIA Security+ (Targeting 2026)
 
 ---
 
