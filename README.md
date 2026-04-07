@@ -5,7 +5,8 @@ Currently completing the Google Cybersecurity Professional Certificate, I focus 
 
 ---
 
-## Skills & Tools
+<dir> align="center" <strong> Skills & Tools </strong>
+</dir>
 
 | Category | Tools / Skills |
 |-----------|----------------|
@@ -19,6 +20,8 @@ Currently completing the Google Cybersecurity Professional Certificate, I focus 
 ---
 
 ## Featured Projects
+
+### Advanced Directory Lab
 
 ### 🔸 [vLAN Network Segmentation Lab](https://github.com/dgutierrez-cyber/vLAN-Network-Segmentation-Lab)
 **Goal:** Simulate a segmented enterprise network using Hyper-V  
