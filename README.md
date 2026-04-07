@@ -5,7 +5,7 @@ Currently completing the Google Cybersecurity Professional Certificate, I focus 
 
 ---
 
-<dir> align="center" <strong> Skills & Tools </strong>
+<dir> align="center"> <strong> Skills & Tools </strong>
 </dir>
 
 | Category | Tools / Skills |
