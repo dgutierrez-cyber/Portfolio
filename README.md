@@ -23,7 +23,9 @@ Currently completing the Google Cybersecurity Professional Certificate, I focus 
 <div align="center"> <h2> Featured Projects </h2>
 </div>
 
-[<h2>Active Directory Lab</h2>](https://github.com/dgutierrez-cyber/Active-Directory-Lab)
+<div> <h2>
+[Active Directory Lab](https://github.com/dgutierrez-cyber/Active-Directory-Lab)
+</h2> </div>
 
 ###  [vLAN Network Segmentation Lab](https://github.com/dgutierrez-cyber/vLAN-Network-Segmentation-Lab)
 **Goal:** Simulate a segmented enterprise network using Hyper-V  
